@@ -9,7 +9,7 @@ Packaging : Jar
 Java : 8
 Package : com.example.demo
 
-Spring Boot Version : 2.1.0
+Spring Boot Version : 2.0.6
 
 Project Dependencies : Web
 ```
@@ -25,7 +25,7 @@ Packaging : Jar
 Java : 8
 Package : com.example.demo
 
-Spring Boot Version : 2.1.0
+Spring Boot Version : 2.0.6
 
 Project Dependencies : Web
 ```
@@ -41,7 +41,7 @@ Packaging : Jar
 Java : 8
 Package : com.example.demo
 
-Spring Boot Version : 2.1.0
+Spring Boot Version : 2.0.6
 
 Project Dependencies : Web
 ```
