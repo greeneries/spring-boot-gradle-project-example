@@ -3,7 +3,7 @@
 ```
 STS >> New >> Spring Starter Project
 
-Project Name : spring-jdbc-3
+Project Name : spring-boot-gradle
 Type : gradle
 Packaging : Jar
 Java : 8
